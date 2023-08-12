@@ -1,5 +1,9 @@
 # BarCode-Scanner
 
+![ alt text ](https://img.shields.io/badge/powerapps-blueviolet?logo=powerapps)
+![ alt text ](https://img.shields.io/badge/microsoftsharepoint-turquoise?logo=microsoftsharepoint)
+
+
 Welcome to Barcode Scanner! 📊📷
 
 Barcode Scanner is a powerful PowerApps project that simplifies barcode scanning and data management. Effortlessly use your device's camera to scan barcodes, retrieve product information, and store data in an organized manner. 🚀💼
